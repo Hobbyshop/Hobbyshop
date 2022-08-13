@@ -11,5 +11,4 @@ I'm Hobbyshop, a developer and Designer with 3 years of Java/JVM experience
 
 ### Contact me
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/815955695739863100)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hobbyshop&layout=default)](https://github.com/anuraghazra/github-readme-stats)
+[![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hobbyshop&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&langs_count=6)](https://github.com/Hobbyshop)
