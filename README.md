@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 
-<!--
-**Hobbyshop/Hobbyshop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Hobbyshop, a developer and Designer with 3 years of Java/JVM experience
 
-Here are some ideas to get you started:
+### Here is a list of tools I use
+![](https://skillicons.dev/icons?i=idea,vscode,java,kotlin,cpp)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### These are my current projects and goals
+* Mastering Kotlin
+* Learning OpenGL
+
+### Contact me
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/815955695739863100)
