@@ -3,7 +3,7 @@
 I'm Hobbyshop, a developer and Designer with 3 years of Java/JVM experience
 
 ### Here is a list of tools I use
-![](https://skillicons.dev/icons?i=idea,vscode,java,kotlin,c)
+![](https://skillicons.dev/icons?i=idea,vscode,java,kotlin,cpp)
 
 ### These are my current projects and goals
 * Mastering Kotlin
