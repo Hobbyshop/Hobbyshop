@@ -6,6 +6,7 @@ I'm Hobbyshop, a developer and Designer with 3 years of Java/JVM experience
 ![](https://skillicons.dev/icons?i=idea,vscode,java,kotlin,cpp)
 
 ### These are my current projects and goals
+* Creating a mod loader
 * Mastering Kotlin
 * Learning OpenGL
 
