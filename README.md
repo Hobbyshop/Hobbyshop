@@ -1,12 +1,11 @@
 <h1 align="center">Hi there 👋</h1>
 
-I'm Hobbyshop, a developer and Designer with 3 years of Java/JVM experience
+I'm Hobbyshop, a developer and designer with 3 years of Java/JVM experience
 
 ### Here is a list of tools I use
 ![](https://skillicons.dev/icons?i=idea,vscode,java,kotlin,cpp)
 
 ### These are my current projects and goals
-* Creating a mod loader
 * Mastering Kotlin
 * Learning OpenGL
 
