@@ -3,7 +3,7 @@
 I'm Hobbyshop, a developer and designer with 3 years of Java/JVM experience
 
 ### Here is a list of tools I use
-![](https://skillicons.dev/icons?i=idea,neovim,java,kotlin,js,rust)
+![](https://skillicons.dev/icons?i=idea,neovim,java,kotlin,js,cpp)
 
 ### These are my current projects and goals
 * Learning Rust
