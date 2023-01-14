@@ -6,8 +6,7 @@ I'm Hobbyshop, a developer and designer with 3 years of Java/JVM experience
 ![](https://skillicons.dev/icons?i=idea,neovim,java,kotlin,js,cpp)
 
 ### These are my current projects and goals
-* Building an Interpreter
-* Learning SolidJS
+* [Neptune Client](https://github.com/NeptuneClient)
 
 ### Contact me
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordlookup.com/user/815955695739863100)
