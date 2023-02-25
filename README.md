@@ -3,7 +3,7 @@
 I'm Hobbyshop, a developer and designer with 3 years of Java/JVM experience
 
 ### Here is a list of tools I use
-![](https://skillicons.dev/icons?i=idea,neovim,java,kotlin,js,cpp)
+![](https://skillicons.dev/icons?i=idea,neovim,java,kotlin,rust,cpp)
 
 ### These are my current projects and goals
 * [Neptune Client](https://github.com/NeptuneClient)
