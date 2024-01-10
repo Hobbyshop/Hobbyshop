@@ -6,6 +6,7 @@ I'm Hobbyshop, a developer and designer with 3 years of Java/JVM experience
 ![](https://skillicons.dev/icons?i=idea,vscode,java,rust,kotlin,svelte,scss)
 
 ### These are my current projects and goals
+* Mastering Rust
 * [Neptune Client](https://github.com/NeptuneMC)
 
 ### Contact me
