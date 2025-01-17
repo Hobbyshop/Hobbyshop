@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 
-I'm Hobbyshop, a developer and designer with 4 years of Java/JVM experience, currently learning rust.
+I'm Marc, a developer and designer with 4 years of Java/JVM experience, currently learning rust.
 
 ### Here is a list of tools I use
 ![](https://skillicons.dev/icons?i=idea,vscode,java,rust,kotlin,svelte)
